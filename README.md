@@ -14,12 +14,18 @@
 - [科技感模板-Big Data template(paid for download)](http://www.bootstrapmb.com/tag/kejigan)
 - [CSS教程资源- forum for html5&css dev](https://www.html5tricks.com/)
 
+## Material topic
+- [Material配色及图标辅助- Material Color&Icon](https://www.materialpalette.com/colors)
+
 # Integrated website
 - [jquery插件库- jQuery plugins](http://www.jq22.com)
 - [jquery之家- jQuery Home](http://www.htmleaf.com/)
 - [超火在线代码库- Codepen](https://codepen.io/)
 - [超强图形库- WebGL projects](https://alteredqualia.com/)
+- [国外优质素材（收费）- Envato(paid for download)](https://elements.envato.com/all-items)
 
 
 # Superb personal effect
 - [粒子特效案例- particle effect](https://github.com/jackrugile/3d-particle-explorations)
+- [小小城市3D- little city 3D](https://github.com/pissang/little-big-city)
+
